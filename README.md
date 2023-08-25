@@ -1,2 +1,3 @@
 # Curriculum_vitae
-My Curriculum Vitae 
+
+![View](./View.PNG "View")
