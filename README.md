@@ -1,3 +1,3 @@
 # Curriculum_vitae
 
-![View](./View.PNG "View")
+![CV](./Rúben_Albuquerque_CV.pdf "CV")
